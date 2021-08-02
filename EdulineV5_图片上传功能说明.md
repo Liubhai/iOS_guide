@@ -51,7 +51,7 @@
     * 当所有图片都执行了上传接口后,返回到`主线程`,最后再循环检索装有`UploadImageModel`的数组,如果某个`model`里面的`imageId`为空,那么对应的下标的第几张图就上传失败,并做出相应提示.
 
     ```
-if (finishNum == weakself.pictureArray.count) {
+    if (finishNum == weakself.pictureArray.count) {
     dispatch_async(dispatch_get_main_queue(), ^{
         _rightButton.enabled = YES;
         NSString *faildIndex = @"";
