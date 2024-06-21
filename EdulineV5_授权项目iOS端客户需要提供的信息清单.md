@@ -36,4 +36,4 @@
 * 声网直播相关信息提供
     * 直播信息相对复杂,后续完善补全
 
-**注:**[网易一键登录配置链接](https://help.aliyun.com/document_detail/144186.html?spm=a2c4g.11186623.6.558.610e6df1XzhivP)、[QQ三方信息配置链接](https://connect.qq.com/index.html)、[微信开放平台](https://open.weixin.qq.com/)、[UniversalLink配置官网](https://www.mob.com/)、[UniversalLink配置教程](https://www.jianshu.com/p/65b069331c9a)
+**注:**[网易一键登录配置链接](https://help.aliyun.com/document_detail/144186.html?spm=a2c4g.11186623.6.558.610e6df1XzhivP)、[QQ三方信息配置链接](https://connect.qq.com/index.html)、[微信开放平台](https://open.weixin.qq.com/)、[UniversalLink配置官网](https://www.mob.com/)、[UniversalLink配置教程](https://www.jianshu.com/p/65b069331c9a)、[苹果手机设备获取UDID](https://www.tenorshare.cn/iphone-tips/how-to-find-iphone-udid.html)
